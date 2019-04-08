@@ -1,6 +1,8 @@
 # W901
 Grundlagen des Linux / Unix Betriebsystems kennenlernen
 
+![](images/cover.jpg)
+
 ## Administratives
 
 Das Modul wird regulär benotet. „Die Zeugnisnoten widerspiegeln den individuellen Leistungsstand in einem Fach, so objektiv und absolut wie möglich. Der Zeugnisnote sollten pro Fach mindestens drei voneinander unabhängige Notenwerte zugrunde liegen und auch dokumentiert sein (schriftliche Prüfungen, Kriterienraster, Protokolle etc.).“ siehe orgweb: http://orgweb.tbz.ch/handbuch/berufliche-grundbildung/23-unterrichtsdurchfuehrung.aspx
@@ -24,7 +26,7 @@ und kann von jedem Lehrenden, individuell mit seinem Wissenstand abgestimmt werd
 
 Als Lernprodukt wird
 
-* **eine Dokumention des Lern- und Entwicklungsprozesses für mindestens 6 Ausgesuchte Unterkapitel aus den zwei LPI Examen** 
+* **eine Dokumention des Lern- und Entwicklungsprozesses mit Ausgesuchten Unterkapiteln aus den zwei LPI Examen** 
 
 erwartet. 
 
@@ -65,7 +67,9 @@ Die Dokumentation des Lern- und Entwicklungsprozesses hat folgenden Aufbau:
 
 ## LBs
 
-### LB1 - Theoretische Prüfung (Gewichtung 20 %)
+### LB1 - Theoretische Prüfung (Gewichtung 40 %)
+
+Es sind insgesamt 12 Fragen.
 
 Hilfsmittel 1 A4 Blatt mit eigenen Notizen (keine Kopie)
 
@@ -76,9 +80,9 @@ Prüfungsthemen:
 
 Zu jeder Frage gibt es drei Antwortmöglichkeiten, eine ist richtig.
 
-## LB2 - Dokumention des Lern- und Entwicklungsprozesses (80 %)
+## LB2 - Dokumention des Lern- und Entwicklungsprozesses (60 %)
 
-Gewichtung des Kapitels bei LPI, siehe **Weight:**.
+Gewichtung des Kapitels bei LPI, siehe **Weight:**. 
 
 Persönliche Lernentwicklung
 * Vergleich Vorwissen 
@@ -93,4 +97,4 @@ Zusätzliche Bewertungspunkte
 
 Die Dokumention des Lern- und Entwicklungsprozesses wird pro Abgegebenem Kapitel bewertet und erfolgt jedesmal wenn ein Lehrender ein Kapitel als "Abgeschlossen" einträgt.
 
-Die Dokumentation erfolgt auf "github.com".
+Die Dokumentation erfolgt auf "github.com" in Form eines eigenes Projektes.
