@@ -18,3 +18,52 @@ Der Kursinhalt ist, je nach Vorwissen, an folgenden LPI Examen ausgerichtet:
 
 und kann von jedem Lehrenden, individuell mit seinem Wissenstand abgestimmt werden.
 
+## Auftrag
+
+Als Lernprodukt wird
+
+* **eine Dokumention des Lern- und Entwicklungsprozesses für mindestens 6 Ausgesuchte Unterkapitel aus den zwei LPI Examen** 
+
+erwartet. 
+
+Die Kapitel hat sich der Lehrnende am Anfang des Moduls selber als Fahrplan zusammenzustellen.
+
+Beispiel: Exam 010
+15.05.19 | 2.1 Command Line Basics 
+22.05.19 | 2.3 Using Directories and Listing Files
+29.05.19 | 2.4 Creating, Moving and Deleting Files
+05.06.19 | 3.2 Searching and Extracting Data from Files
+etc.
+
+Das Datum für die LB1 (26.06.19) ist fix und kann nicht verschoben werden.
+
+## LBs
+
+### LB1 - Theoretische Prüfung (Gewichtung 20 %)
+
+Hilfsmittel 1 A4 Blatt mit eigenen Notizen (keine Kopie)
+
+Prüfungsthemen: 
+* Standard Linux Befehle und deren Funktion, z.B. `tar`, `ps`, ...
+* Eigenschaften von Linux, z.B. alles ist eine D..., besteht aus kleinen Programmen, ...
+* Fragen zu Open Source Lizenzen, z.B. GPL ist ein Copy... Lizenz
+
+Zu jeder Frage gibt es drei Antwortmöglichkeiten, eine ist richtig.
+
+## LB2 - Dokumention des Lern- und Entwicklungsprozesses (80 %)
+
+Gewichtung des Kapitels bei LPI, siehe **Weight:**.
+
+Persönliche Lernentwicklung
+* Vergleich Vorwissen 
+* Wissenszuwachs
+* Reflexion
+
+Zusätzliche Bewertungspunkte
+* Kreativität
+* Komplexität
+* Umfang
+* Umsetzung eigener Ideen
+
+Die Dokumention des Lern- und Entwicklungsprozesses wird pro Abgegebenem Kapitel bewertet und erfolgt jedesmal wenn ein Lehrender ein Kapitel als "fertig" einträgt.
+
