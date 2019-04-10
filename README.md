@@ -82,7 +82,7 @@ Prüfungsthemen:
 
 Zu jeder Frage gibt es drei Antwortmöglichkeiten, eine ist richtig.
 
-## LB2 - Dokumention des Lern- und Entwicklungsprozesses (60 %)
+## LB2 - Dokumentation des Lern- und Entwicklungsprozesses (Gewichtung 60 %)
 
 Die Anzahl erarbeitete Kapitel und deren Gewichtung (**Weight:**) bestimmen die LB2 Punkte und damit die Note.
 
