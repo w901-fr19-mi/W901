@@ -38,7 +38,7 @@ Beispiel: Exam 010
 
 | Datum | behandelte Unterrichtsinhalte: | Gewichtung |
 | -------- | ------ | ---------- |
-| 15.05.19 | 1.1 Linux Evolution and Popular Operating Systems<br>1.3 Open Source Software and Licensing | 2 + 2 |
+| 15.05.19 | Installation SW, Einrichten Linux VM(s)<br>1.1 Linux Evolution and Popular Operating Systems<br>1.3 Open Source Software and Licensing | 2 + 2 |
 | 22.05.19 | 2.1 Command Line Basics<br>2.3 Using Directories and Listing Files<br>2.4 Creating, Moving and Deleting Files  | 2 + 3 + 2 |
 | 29.05.19 | 3.2 Searching and Extracting Data from Files<br>3.3 Turning Commands into a Script | 3 + 4 | 
 ...
