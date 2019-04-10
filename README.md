@@ -15,32 +15,34 @@ Das Modul erscheint im Zeugnis unten rechts unter „zusätzlich besuchte Module
 
 Der Kursinhalt ist, je nach Vorwissen, an folgenden LPI Examen ausgerichtet:
 
-| LPI Beschreibung | Modul Unterlagen |
-|------------------|------------------|
-| [Linux Essentials Exam 010](https://www.lpi.org/our-certifications/exam-010-objectives) | [E010](https://github.com/w901-fr19-mi/E010) | 
-| [Exam 701: DevOps Tools Engineer](https://www.lpi.org/our-certifications/exam-701-objectives) | [E701](https://github.com/w901-fr19-mi/E701) | 
+| LPI Beschreibung | Modul Unterlagen | Beispiel |
+|------------------|------------------|----------|
+| [Linux Essentials Exam 010](https://www.lpi.org/our-certifications/exam-010-objectives) | [E010](https://github.com/w901-fr19-mi/E010) | [myE010](https://github.com/w901-fr19-mi/myE010) |
+| [Exam 701: DevOps Tools Engineer](https://www.lpi.org/our-certifications/exam-701-objectives) | [E701](https://github.com/w901-fr19-mi/E701) | [myE701](https://github.com/w901-fr19-mi/myE701) |
 
 und kann von jedem Lehrenden, individuell mit seinem Wissenstand abgestimmt werden.
+
+Beispiele wie ein Fahrplan und die Dokumention des Lern- und Entwicklungsprozesses aussehen kann, siehe Spalte Beispiele. Diese Beispiele können für die Erstellung der eigenen Dokumentation mittels `fork` (siehe Beispieldokumentation) kopiert werden.
 
 ## Auftrag
 
 Als Lernprodukt wird
 
-* **eine Dokumention des Lern- und Entwicklungsprozesses mit Ausgesuchten Unterkapiteln aus den zwei LPI Examen** 
+* **eine Dokumention des Lern- und Entwicklungsprozesses mit Ausgesuchten Unterkapiteln aus einem oder beiden LPI Examen** 
 
 erwartet. 
 
-Die Unterkapitel hat sich der Lehrnende am Anfang des Moduls selber als Fahrplan zusammenzustellen.
+Die Unterkapitel hat sich der Lehrnende, am Anfang des Moduls, selber als Fahrplan zusammenzustellen.
 
 Beispiel: Exam 010
 
-| Datum | behandelte Unterrichtsinhalte: |
+| Datum | behandelte Unterrichtsinhalte: | Gewichtung |
 | -------- | ------ |
-| 15.05.19 | 2.1 Command Line Basics |
-| 22.05.19 | 2.3 Using Directories and Listing Files |
-| 29.05.19 | 2.4 Creating, Moving and Deleting Files |
-| 05.06.19 | 3.2 Searching and Extracting Data from Files |
-
+| 15.05.19 | 1.1 Linux Evolution and Popular Operating Systems<br>1.3 Open Source Software and Licensing | 2 + 2 |
+| 22.05.19 | 2.1 Command Line Basics<br>2.3 Using Directories and Listing Files<br>2.4 Creating, Moving and Deleting Files  | 2 + 3 + 2 |
+| 29.05.19 | 3.2 Searching and Extracting Data from Files<br>3.3 Turning Commands into a Script | 3 + 4 | 
+...
+|          | Total Punkte | mindestens 24 |
 etc.
 
 Das Datum für die LB1 (26.06.19) ist fix und kann nicht verschoben werden.
@@ -75,21 +77,18 @@ Hilfsmittel 1 A4 Blatt mit eigenen Notizen (keine Kopie)
 
 Prüfungsthemen: 
 * Standard Linux Befehle und deren Funktion, z.B. `tar`, `ps`, ...
-* Eigenschaften von Linux, z.B. alles ist eine D..., besteht aus kleinen Programmen, ...
+* Eigenschaften von Linux, z.B. alles ist eine D..., besteht aus kl...en Programmen, ...
 * Fragen zu Open Source Lizenzen, z.B. GPL ist ein Copy... Lizenz
 
 Zu jeder Frage gibt es drei Antwortmöglichkeiten, eine ist richtig.
 
 ## LB2 - Dokumention des Lern- und Entwicklungsprozesses (60 %)
 
-Gewichtung des Kapitels bei LPI, siehe **Weight:**. 
+Die Anzahl erarbeitete Kapitel und deren Gewichtung (**Weight:**) bestimmen die LB2 Punkte und damit die Note.
 
-Persönliche Lernentwicklung
-* Vergleich Vorwissen 
-* Wissenszuwachs
-* Reflexion
+Um die volle Punktzahl eines Kapitels zu erlangen, wird eine Aufstellung, wie oben aufgezeigt, erwartet.
 
-Zusätzliche Bewertungspunkte
+Die Gewichtung (Punktzahl) eines Kapitels kann erhöht werden, durch folgende Eigenschaften der Umsetzung:
 * Kreativität
 * Komplexität
 * Umfang
@@ -97,4 +96,4 @@ Zusätzliche Bewertungspunkte
 
 Die Dokumention des Lern- und Entwicklungsprozesses wird pro Abgegebenem Kapitel bewertet und erfolgt jedesmal wenn ein Lehrender ein Kapitel als "Abgeschlossen" einträgt.
 
-Die Dokumentation erfolgt auf "github.com" in Form eines eigenes Projektes.
+Die Dokumentation erfolgt auf "github.com" in Form eines eigenes Projektes. Dazu wird eines der zwei Beispielprojekte mittels `fork` kopiert.
