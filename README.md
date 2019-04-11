@@ -17,7 +17,7 @@ Der Kursinhalt ist, je nach Vorwissen, an folgenden LPI Examen ausgerichtet:
 
 | LPI Beschreibung | Modul Unterlagen | Beispiel |
 |------------------|------------------|----------|
-| [Linux Essentials Exam 010](https://www.lpi.org/our-certifications/exam-010-objectives) | [E010](https://github.com/w901-fr19-mi/E010) | [myE010](https://github.com/w901-fr19-mi/myE010) |
+| [Exam 010: Linux Essentials](https://www.lpi.org/our-certifications/exam-010-objectives) | [E010](https://github.com/w901-fr19-mi/E010) | [myE010](https://github.com/w901-fr19-mi/myE010) |
 | [Exam 701: DevOps Tools Engineer](https://www.lpi.org/our-certifications/exam-701-objectives) | [E701](https://github.com/w901-fr19-mi/E701) | [myE701](https://github.com/w901-fr19-mi/myE701) |
 
 und kann von jedem Lehrenden, individuell mit seinem Wissenstand abgestimmt werden.
